@@ -8,9 +8,9 @@ This is copy of a project that me and 5 other group members worked on for CS400 
 ## Description
 This is a local application that is used to track the gifts that a person needs to buy for the holidays. It stores gifts in a hashtable, people in a red black tree and writes to a csv file. The user is allowed to interact with the gift through a GUI created in JavaFX.
 ## How to run on linux with GUI
-1. Clone this repo ~git clone "https://Lmaobeh/GiftTracker-Copy"~
+1. Clone this repo `git clone "https://Lmaobeh/GiftTracker-Copy"`
 2. Download java and GNU make 
-3. run the make file by running ~make~
+3. run the make file by running `make`
 4. Follow GUI instructions.
 - By default there will be names loaded in. They can be removed useing the buttons
 
