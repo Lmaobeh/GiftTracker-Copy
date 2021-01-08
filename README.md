@@ -1,5 +1,5 @@
 # Gift tracker
-This is copy of a project that me and 5 other group members worked on for CS400 at UW madison. I worked on the GUI created with java FX and made sure everyones code worked together. Those 5 other group members are cited in the code and in this list.
+This is copy of a project that me and 5 other group members worked on for CS400 at UW madison. I worked on the GUI created with java FX and made sure that code worked together. The 5 other group members are cited in the code are in this list.
 1. tnazareth@wisc.edu 
 2. sdhossain@wisc.edu 
 3. kadadha@wisc.edu 
@@ -12,7 +12,7 @@ This is a local application that is used to track the gifts that a person needs 
 2. Download java and GNU make 
 3. run the make file by running `make`
 4. Follow GUI instructions.
-- By default there will be names loaded in. They can be removed useing the buttons
+- By default there will be names loaded in. They can be removed using the buttons.
 
 # Bellow is the readme that UW madison requires to credit our work
 README for Team Project Four (CS400 @ UW Madison)
